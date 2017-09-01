@@ -74,6 +74,10 @@
       {
         "language": "vue",
         "path": "./snippets.json"
+      },
+      {
+        "language": "HTML (Eex)",
+        "path": "./snippets.json"
       }
     ]
   }
